@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dgw04.
+- 👀 I’m interested in learn new code.
+- 🌱 I’m currently learning Java.
